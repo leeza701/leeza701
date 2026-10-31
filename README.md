@@ -184,7 +184,6 @@ A full-stack social networking application with interactive user features.
 ## 🏆 ACHIEVEMENTS & LEARNING
 
 - 🏅 Earned a 50-day LeetCode coding badge.
-- 💡 Participated in the Capgemini Hackathon and advanced to Round 2.
 - 📜 IEEE Certificate.
 - 📚 Continuously learning Full-Stack Development and Generative AI.
 
