@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Leeza Malik!
+# 👋 Hey, I'm Leeza!
 
 ### 💻 Software Developer | Full-Stack Developer | AI Enthusiast
 
