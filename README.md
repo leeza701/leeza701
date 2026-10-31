@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=leeza701&color=blueviolet&style=flat-square)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-leeza701-181717?style=for-the-badge&logo=github)](https://github.com/leeza701)
 
